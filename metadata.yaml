@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/85
     wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17494#Les-mis-rables-Tome-III--13-Marius
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2006-01-11'
 gutenberg_type: Text
