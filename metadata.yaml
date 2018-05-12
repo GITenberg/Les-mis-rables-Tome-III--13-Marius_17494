@@ -1,0 +1,33 @@
+_repo: Les-mis-rables-Tome-III--13-Marius_17494
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hugo, Victor
+    alias: Hugo, Victor Marie, comte
+    birthdate: 1802
+    deathdate: 1885
+    gutenberg_agent_id: '85'
+    url: http://www.gutenberg.org/2009/agents/85
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17494'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PQ'
+- !lcsh 'Epic literature'
+- !lcsh 'Ex-convicts -- Fiction'
+title: 'Les misérables Tome III: Marius'
+url: http://www.gutenberg.org/ebooks/17494
